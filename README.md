@@ -34,3 +34,7 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
+## Scripts for project
+1. [Extract Python File](/extract.py)
+2. [Load Python File](/load.py)
+3. [Transform Python File](/transform.py)
